@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Course data (not redistributed)
+train_ch.csv
+test_ch.csv
+
+# OS
+.DS_Store
+Thumbs.db
